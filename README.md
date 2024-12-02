@@ -18,4 +18,4 @@ Supports Tridents, Swords, Axes, Maces, and Bows
 - Paste the command and run it
 - Right click on the tripwirehook/block to display your weapon!
 
-![Weapons on Display]()
+![Weapons on Display](https://github.com/djorgensentech/WeaponDisplayGenerator/blob/main/weapons.png)
