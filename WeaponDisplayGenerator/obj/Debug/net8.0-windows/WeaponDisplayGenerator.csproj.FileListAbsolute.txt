@@ -1,0 +1,17 @@
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\bin\Debug\net8.0-windows\WeaponDisplayGenerator.exe
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\bin\Debug\net8.0-windows\WeaponDisplayGenerator.deps.json
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\bin\Debug\net8.0-windows\WeaponDisplayGenerator.runtimeconfig.json
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\bin\Debug\net8.0-windows\WeaponDisplayGenerator.dll
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\bin\Debug\net8.0-windows\WeaponDisplayGenerator.pdb
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\obj\Debug\net8.0-windows\WeaponDisplayGenerator.csproj.GenerateResource.cache
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\obj\Debug\net8.0-windows\WeaponDisplayGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\obj\Debug\net8.0-windows\WeaponDisplayGenerator.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\obj\Debug\net8.0-windows\WeaponDisplayGenerator.AssemblyInfo.cs
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\obj\Debug\net8.0-windows\WeaponDisplayGenerator.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\obj\Debug\net8.0-windows\WeaponDisplayGenerator.dll
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\obj\Debug\net8.0-windows\refint\WeaponDisplayGenerator.dll
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\obj\Debug\net8.0-windows\WeaponDisplayGenerator.pdb
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\obj\Debug\net8.0-windows\WeaponDisplayGenerator.genruntimeconfig.cache
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\obj\Debug\net8.0-windows\ref\WeaponDisplayGenerator.dll
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\obj\Debug\net8.0-windows\WeaponDisplayGenerator.Properties.Resources.resources
+C:\Users\david\source\repos\WeaponDisplayGenerator\WeaponDisplayGenerator\obj\Debug\net8.0-windows\WeaponDisplayGenerator.MainForm.resources
